@@ -1,1 +1,0 @@
-# saucedemo-e2e-test
